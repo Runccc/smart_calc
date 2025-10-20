@@ -3,3 +3,4 @@ __pycache__/
 *.swo
 .DS_Store
 imagenet-vgg-verydeep-19.mat
+.pyc
